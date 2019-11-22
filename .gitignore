@@ -56,3 +56,4 @@ venv.bak/
 github_settings.py
 __pycache__
 .ipynb_checkpoints/
+*.h5
